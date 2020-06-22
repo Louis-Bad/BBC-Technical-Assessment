@@ -1,5 +1,10 @@
 ## ignore Jupyter checkpoints
 .ipynb_checkpoints
 
+
 ## ignore Mac system folder
 .DS_Store
+
+
+## ignore data folder
+data
